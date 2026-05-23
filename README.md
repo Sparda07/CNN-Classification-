@@ -1,0 +1,1 @@
+Developed a computer vision-based fruit classification system capable of detecting and classifying fresh and rotten fruits using image processing and deep learning techniques. The project focused on improving automated quality inspection by training a model on labeled fruit datasets and evaluating classification accuracy.
